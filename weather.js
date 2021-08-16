@@ -1,4 +1,4 @@
-const key = '';
+const key = '78ccb4c930d80e1e45fb5da788bc5657';
 if(key=='') document.getElementById('temp').innerHTML = ('Remember to add your api key!');
 
 function weatherBallon( cityID ) {
